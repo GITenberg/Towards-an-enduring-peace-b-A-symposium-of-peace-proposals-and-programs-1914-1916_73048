@@ -19,7 +19,12 @@ contributor:
     gutenberg_agent_id: '54325'
     url: http://www.gutenberg.org/2009/agents/54325
     wikipedia: https://en.wikipedia.org/wiki/Randolph_Bourne
+covers:
+- cover_type: archival
+  image_path: 73048-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73048#Towards-an-enduring-peace-b-A-symposium-of-peace-proposals-and-programs-1914-1916
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
